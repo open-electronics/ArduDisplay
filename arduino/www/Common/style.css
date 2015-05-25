@@ -1,0 +1,19 @@
+body {
+ background-color: #96eeff;
+}
+
+img {
+	cursor: pointer;
+}
+
+#frase, #Invia {
+	padding : 10px;
+	border : 2px;
+	.hover : blue;
+	font-family : Century Gothic;
+	font-size :30px;
+	width : 80%;
+	height: 50px;
+	cursor: pointer;
+}
+
